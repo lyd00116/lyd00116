@@ -1,8 +1,9 @@
 ### Hi there 👋
 - 🌱 I’m currently learning motion planning on uav
-- How to reach me: contact qz_liu@tju.edu.cn
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyd00116)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyd00116&count_private=true)
+- How to reach me: contact qz_liu@tju.edu.cn                 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyd00116&count_private=true&show_icons=true&theme=highcontrast&show_icons=true)
+---
+
 <!--
 **lyd00116/lyd00116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
