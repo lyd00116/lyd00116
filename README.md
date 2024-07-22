@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning motion planning on uav
+- 🌱 I’m currently learning motion planning on Multi-UAVs, Formation Control and the application of Behavior Tree
 - How to reach me: contact qz_liu@tju.edu.cn                 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyd00116&count_private=true&show_icons=true&theme=highcontrast&show_icons=true)
 ---
